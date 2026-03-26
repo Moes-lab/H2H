@@ -4,9 +4,9 @@
 Dette projekt, er en android-udgave af vores Heart2Heart projekt, som vi lavede i en Design-Sprint.
 Projektet indeholder følgende:
 
-* UI - for den visuelle del af vores app
-* Components - der tager dig igennem brugerrejsen, fra hjemmeskærm til vores aktuelle ide.
-* Screens - der indeholder alle skærmenes indhold.
+* UI - fordelt i de forskellige skærme.
+* Components - fordelt i de forskellige skærme.
+* Viewmodel - indeholder appens logik.
 
 Hvordan der virker:
 
